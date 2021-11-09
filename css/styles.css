@@ -77,9 +77,11 @@ body {
 }
 
 /* Hero */
-.hero-title {
+.hero {
   color: var(--second-text-color);
   background-color: #2f303a;
+}
+.hero-title {
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
