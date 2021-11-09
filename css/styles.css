@@ -169,7 +169,11 @@ body {
   background-color: var(--second-background-color);
   color: var(--title-text-color);
 }
-
+.button-list .button:hover,
+.button-list .button:focus {
+  color: var(--second-text-color);
+  background-color: var(--accent-color);
+}
 /* Footer */
 .page-footer {
   background-color: #2f303a;
