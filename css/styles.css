@@ -118,7 +118,10 @@ body {
   line-height: 1.19;
 }
 .team {
-  background-color: var(--background-color);
+  background-color: var(--second-background-color);
+}
+.team .person-card {
+  background-color: var(--second-text-color);
 }
 /* Portfolio */
 /* Categories */
